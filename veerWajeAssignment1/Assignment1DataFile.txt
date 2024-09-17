@@ -1,0 +1,37 @@
+DALLAS COLLEGE COMPUTER SCIENCE 
+
+Computer Science
+Computer science is the study of computers and computational systems. A discipline including theory and practice, it includes the study of methods for processing digital information, and the design of computer hardware and software along with the applications of computers. It requires thinking both in abstract and concrete terms. Computer science has a stronger foundation in math than in science.
+Computer science courses are listed under the four-letter rubrics (course prefixes) BCIS and COSC. Note that all courses may not be offered at every Dallas College campus.
+ 
+At These Campuses:
+Brookhaven
+Cedar Valley
+Eastfield
+El Centro
+Mountain View
+North Lake
+Richland
+
+Course Number: COSC 1436 (4 Credit Hours)
+Listed by Campus(es): BHC, CVC, EFC, ECC, MVC, NLC, RLC
+Course Title:Programming Fundamentals I
+This is a Texas Common Course Number.
+Course Description: This course introduces the fundamental concepts of structured programming, and provides a comprehensive introduction to programming for computer science and technology majors. Topics include software development methodology, data types, control structures, functions, arrays, and the mechanics of running, testing, and debugging. This course may use instructional examples and assignments form various programming languages including but not limited to C, Objective-C, C++, and/or Java. This course assumes computer literacy. (This course is included in the Field of Study Curriculum for Computer Science.) COSC 1436 will satisfy the Associate in Sciences degree general elective requirement. This course will fulfill degree requirements established by the colleges of DCCCD only if this course has been successfully completed and the date of completion does not exceed 10 years. (3 Lec., 3 Lab.)
+Coordinating Board Academic Approval Number 1102015507
+
+Course Number: COSC 1437 (4 Credit Hours)
+Listed by Campus(es): BHC, CVC, EFC, ECC, MVC, NLC, RLC
+Course Title:Programming Fundamentals II
+This is a Texas Common Course Number.
+Prerequisite Required: COSC 1436 and MATH 1314 or higher.
+Course Description: This course focuses on the object-oriented programming paradigm, emphasizing the definition and use of classes along with fundamentals of object-oriented design. The course includes basic analysis of algorithms, searching and sorting techniques, and an introduction to software engineering processes. Students will apply techniques for testing and debugging software. This course may use instructional examples and assignments form various programming languages including but not limited to C, Objective-C, C++, and/or Java. (This course is included in the Field of Study Curriculum for Computer Science.) COSC 1437 will satisfy the Associate in Sciences degree general elective requirement. This course will fullfill degree requirements established by the colleges of DCCCD only if this course has been successfully completed and the date of completion does not exceed 10 years. (3 Lec., 3 Lab.)
+Coordinating Board Academic Approval Number 1102015607
+
+Course Number: COSC 2436 (4 Credit Hours)
+Listed by Campus(es): BHC, EFC, ECC, MVC, NLC, RLC
+Course Title:Programming Fundamentals III
+This is a Texas Common Course Number.
+Prerequisite Required: COSC 1437.
+Course Description: Further applications of programming techniques, introducing the fundamental concepts of data structures and algorithms. Topics include recursion, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), and algorithmic analysis. This course may use instructional examples and assignments from various programming languages, including but not limited to C, Objective-C, C++, C#, and/or Java. COSC 2436 will satisfy the Associate in Sciences degree general elective requirement. This course will fulfill degree requirements established by the colleges of DCCCD only if this course has been successfully completed and the date of completion does not exceed 10 years. (3 Lec., 3 Lab.)
+Coordinating Board Academic Approval Number 1102015707
